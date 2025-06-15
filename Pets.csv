@@ -1,0 +1,5 @@
+PetID,Name,BirthDate,PetTypeID,CustomerID
+1,Buddy,2020-05-12,1,1
+2,Whiskers,2019-11-30,2,2
+3,Hopper,2021-03-15,3,2
+4,Chirpy,2022-07-01,4,3

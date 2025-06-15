@@ -1,0 +1,4 @@
+CustomerID,FullName,Phone,Email,Address
+1,John Doe,+1234567890,john.doe@example.com,123 Elm Street
+2,Jane Smith,+9876543210,jane.smith@example.com,456 Oak Avenue
+3,Michael Johnson,+1112223333,michael.johnson@example.com,789 Pine Road

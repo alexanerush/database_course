@@ -1,0 +1,4 @@
+RecordID,PetID,Date,Description,VetID
+1,1,2025-06-10,Healthy,1
+2,2,2025-06-11,Vaccinated for rabies,1
+3,4,2025-06-13,Minor cold symptoms,4
