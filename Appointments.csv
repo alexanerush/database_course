@@ -1,5 +1,0 @@
-AppointmentID,PetID,ServiceID,EmployeeID,AppointmentDate,Notes
-1,1,1,1,2025-06-10,Annual checkup
-2,2,2,1,2025-06-11,Rabies vaccine
-3,3,3,2,2025-06-12,Full grooming session
-4,4,1,4,2025-06-13,Health assessment
